@@ -1,0 +1,15 @@
+/* ========================================================================
+* ZogStrap: zsgswitcher.css v1.0
+* https://github.com/a-zog
+* ========================================================================
+* Copyright (c) 2014 Zoghlami Ahmed
+* 
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+* FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+* OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+* THE SOFTWARE.
+* ======================================================================== */
+.zs-grid-switcher{padding:15px;border:1px solid #0077b1;-webkit-border-radius:5px;border-radius:5px}.zs-grid-switcher ul{list-style:none;padding:0;margin:0}a.zs-gs-image img,img.zs-gs-image{-webkit-border-radius:5px;border-radius:5px}.zs-gs-view-grid ul{text-align:center}.zs-gs-view-grid ul li{width:33%;text-align:center;padding:25px;margin:20px 0 0;display:inline-block;min-height:420px;vertical-align:top}.zs-gs-view-grid .zs-gs-title{font-size:2em}.zs-gs-view-grid .zs-gs-details{max-width:300px;min-height:70px;margin:0 auto}.zs-gs-view-grid .zs-gs-subtitle{margin:10px 0;font-size:1.5em;color:#97c5db}.zs-gs-view-list li{padding:20px 0;width:100%;display:block;white-space:nowrap}.zs-gs-view-list .zs-gs-image,.zs-gs-view-list .zs-gs-title,.zs-gs-view-list .zs-gs-details,.zs-gs-view-list .zs-gs-subtitle,.zs-gs-view-list .zs-gs-btn{display:inline-block;vertical-align:middle}.zs-gs-view-list .zs-gs-image{width:10%}.zs-gs-view-list .zs-gs-title{font-size:1.3em;padding:0 10px;white-space:normal;width:20%}.zs-gs-view-list .zs-gs-subtitle{font-size:1em;word-wrap:break-word;width:14%}.zs-gs-view-list .zs-gs-details{width:43%;padding:0 15px;overflow:hidden;white-space:normal}.zs-gs-view-list .zs-gs-btn{margin:0}
