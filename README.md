@@ -9,7 +9,7 @@ Made using:
 - JQuery
 - BootStrap
 
-Minimal deployement:
+Minimal deployement requirement:
 =========================
 
 - Only "zsgridswitcher.min.js" and "zsgridswitcher.min.css" are needed to go.
