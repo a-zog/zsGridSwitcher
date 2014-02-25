@@ -1,6 +1,7 @@
-zsGridSwitcher - http://ahzog.com/gridswitcher/
+zsGridSwitcher
 =========================
 
+ http://ahzog.com/gridswitcher/
 A CSS3 & lightweight JQuery Grid Switcher component.
 
 Made using:
